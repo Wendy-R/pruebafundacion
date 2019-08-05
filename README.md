@@ -1,6 +1,6 @@
-#Pruebas de Git y GitHub para la fundacion InmunoXXI
+# Pruebas de Git y GitHub para la fundacion InmunoXXI
 
-###Equipo de trabajo
+### Equipo de trabajo
 
 * Acosta Haron
 * Palomino Yuribeth
